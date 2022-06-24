@@ -1,0 +1,9 @@
+back:
+npm i
+yarn dev
+
+front:
+npm i
+npm start
+
+Requisitos: BANCO DE DADOS POSTGREE
